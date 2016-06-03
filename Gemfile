@@ -13,6 +13,7 @@ gem 'arel', '6.0.0.beta2'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 group :development, :test do
   gem 'byebug'
